@@ -7,3 +7,5 @@
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FRishit-dagli%2FGDG-Ahmedabad-2020)
 
 My session at [TensorFlow User Group Mysuru](https://www.meetup.com/TFUG-Mysuru/) about **TensorFlow Quantum to build hybrid quantum-classical models**, 18 July 2020.
+
+### [Event Announcement](https://www.meetup.com/TFUG-Mysuru/events/271789127/)
