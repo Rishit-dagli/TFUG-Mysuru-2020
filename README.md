@@ -11,3 +11,5 @@ My session at [TensorFlow User Group Mysuru](https://www.meetup.com/TFUG-Mysuru/
 ### [Event Announcement](https://www.meetup.com/TFUG-Mysuru/events/271789127/)
 
 ### [Slides](http://bit.ly/tfq-slides)
+
+![](images/rishit-dagli-poster.jpeg)
