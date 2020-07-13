@@ -1,4 +1,4 @@
-# TFUG-Mysuru-2020
+# TFUG-Mysuru-2020 <img src="images/tfug-mysuru-white.png" height = 100> 
 
 [![](https://img.shields.io/badge/Rishit-Dagli-brightgreen.svg?colorB=00ff00)](https://www.rishit.tech)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
