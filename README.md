@@ -13,4 +13,4 @@ thanks to [Usha Rengaraju](https://twitter.com/urengaraju) and [Muhammed Shafi](
 
 ### [Slides](http://bit.ly/tfq-slides)
 
-![](images/rishit-dagli-poster.jpeg)
+![](images/rishit-poster.jpeg)
