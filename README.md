@@ -17,4 +17,6 @@ thanks to [Usha Rengaraju](https://twitter.com/urengaraju) and [Muhammed Shafi](
 
 ### [Tweet 2](https://twitter.com/rishit_dagli/status/1283020589414748165)
 
+### [Recording](https://www.youtube.com/watch?v=4Xc4L-sOHks)
+
 ![](images/rishit-poster.jpeg)
